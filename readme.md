@@ -14,6 +14,7 @@ Feel free to use and contribute to this small project! This is my first project 
 * The clock will not show the top center second-bullet. Would like the second-bullets to change state from hidden to showing, then hide again the next minute.
 * EOF (end of file) warning, needs to be fixed, counting down and flashing.
 
+![screenshot](https://github.com/Mongstaen/RadioStudioMonitor/blob/main/203078798_933184267461711_5805206543025988616_n.png?raw=true)
 
 #
 Buy me a coffee? :) 
