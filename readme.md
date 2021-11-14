@@ -5,6 +5,9 @@ This small app is intended for use on LAN, hence the low - to non existing - sec
 * Clone this repository
 * Create your pusher user and app. https://pusher.com
 * Create .env based on the example, update with your pusher details
+* `npm install express`
+* `npm install dotenv`
+* `npm install pusher`
 * `npm install`
 * `node index`
 
